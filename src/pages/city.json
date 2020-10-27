@@ -1,0 +1,142 @@
+[
+    {
+        "title": "Hunthingthon Beach",
+        "description": "Your app fetched this from a remote endpoint!",
+        "restaurants": [
+            {
+                "id": "1",
+                "title": "Descanso Restaurant",
+                "image": "https://www.google.com/maps/uv?pb=!1s0x80dcdf3ec36cb3af%3A0xd56658a2e72de2d1!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNvX5jtZujmazGm6jRqoUDXixXYfoeUHHmUwy88%3Dw260-h175-n-k-no!5srestaurants%20in%20huntington%20beach%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipPdhMo6XxBfyhV35UIs80n0FTdgBWYnyqgX2pTt&hl=en#",
+                "location": "1555 Adams Ave #103, Costa Mesa, CA 92626",
+                "phone": "(310)-794-6590"
+            },
+            {
+                "id": "2",
+                "title": "Duke's Huntington Beach",
+                "image": "https://www.google.com/maps/uv?pb=!1s0x80dd21423c9eac83%3A0x803e7382c0f33bf6!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNTenbBrO8CXPovw9HuGQln21WXaXYwM0VSJ--X%3Dw260-h175-n-k-no!5srestaurants%20in%20huntington%20beach%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipPRPZOCwXqrCsQXYtNQ6yxwS_8LmZ5rUtyISV6j&hl=en#",
+                "location": " 317 Pacific Coast Hwy, Huntington Beach, CA 92648",
+                "phone": "(310)-794-6590"
+            },
+            {
+                "id": "3",
+                "title": "Pacific Hideaway",
+                "image": "https://www.google.com/maps/uv?pb=!1s0x80dd2143b9f6a767%3A0xdf3801594a7bb21b!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPYeGGYmjSJ8I4RgtrKRs9gNmFiY8qREiHgnD4R%3Dw260-h175-n-k-no!5srestaurants%20in%20huntington%20beach%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipO801FDaf7Adp1_x9Usxh5xUe6uk2CsEmPS740v&hl=en#",
+                "location": "500 Pacific Coast Hwy, Huntington Beach, CA 92648",
+                "phone": "(310)-794-6590"
+            }
+        ]
+    },
+    {
+        "title": "Fountain Valley",
+        "description": "Your app fetched this from a remote endpoint!",
+        "restaurants": [
+            {
+                "id": "1",
+                "title": "Stonefire Grill",
+                "image": "https://www.google.com/maps/uv?pb=!1s0x80dd27338810a5cd%3A0x8b008e2e73c840d1!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMBns9d80Zv2lCNgausPdxF7ieLn6WRAPMYgYwH%3Dw260-h175-n-k-no!5srestaurants%20in%20Fountain%20Valley%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipMqXtBJVEY6Mk66ycycoiUUkc0bO8kic0yYs4jF&hl=en#",
+                "location": "18727 Brookhurst St, Fountain Valley, CA 92708",
+                "phone": "(310)-794-6590"
+            },
+            {
+                "id": "2",
+                "title": "Bon Tofu & Grill (Korean Cuisine)",
+                "image": "https://www.google.com/maps/uv?pb=!1s0x80dd2781a34f0ea7%3A0x42911c395fcdc116!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipM1-Wl4kSLX76QJ20TOr3lDa-YLE4Kk7k2lHHnq%3Dw260-h175-n-k-no!5srestaurants%20in%20Fountain%20Valley%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipM1-Wl4kSLX76QJ20TOr3lDa-YLE4Kk7k2lHHnq&hl=en#",
+                "location": "17900 Magnolia St #A, Fountain Valley, CA 92708",
+                "phone": "(310)-794-6590"
+            },
+            {
+                "id": "3",
+                "title": "Istanbul Grill California",
+                "image": "https://www.google.com/maps/uv?pb=!1s0x80dd275065a9480b%3A0x98561e19b681ef56!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipM3UzvIhMMfKdsu9W9m0qIQph-llP2naWU7x0E%3Dw130-h87-n-k-no!5srestaurants%20in%20Fountain%20Valley%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipNwqD-sKjXqEuxbXLWawv9SA4BzVFqP6MqJVFWA&hl=en#",
+                "location": "18010 Newhope St Suite D, Fountain Valley, CA 92708",
+                "phone": "(310)-794-6590"
+            }
+    
+        ]
+    },
+    {
+        "title": "Irvine",
+        "description": "Your app fetched this from a remote endpoint!",
+        "restaurants": [
+            {
+                "id": "1",
+                "title": "North Italia",
+                "image": "https://www.google.com/maps/uv?pb=!1s0x80dcde62927ae01f%3A0x2809b4f7ec9ed296!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNBBEP8jUScLIy6mEg9ZMdqrIKBXWVc90ChJCEp%3Dw260-h175-n-k-no!5srestaurants%20in%20irvine%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipNBBEP8jUScLIy6mEg9ZMdqrIKBXWVc90ChJCEp&hl=en#",
+                "location": "2957 Michelson Dr, Irvine, CA 92612",
+                "phone": "(310)-794-6590"
+            },
+            {
+                "id": "2",
+                "title": "Lazy Dog Restaurant & Bar",
+                "image": "https://www.google.com/maps/uv?pb=!1s0x80dcdb808573fff5%3A0xae76d2b0c6ab747d!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNSLQ44ke8Gjj11G7BUnmZK3OTuazxC6ll4O7k_%3Dw260-h175-n-k-no!5srestaurants%20in%20irvine%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipNSLQ44ke8Gjj11G7BUnmZK3OTuazxC6ll4O7k_&hl=en#",
+                "location": "13290 Jamboree Rd, Irvine, CA 92602",
+                "phone": "(310)-794-6590"
+            },
+            {
+                "id": "3",
+                "title": "Houston's",
+                "image": "https://www.google.com/maps/uv?pb=!1s0x80dcde89cb753a61%3A0xe30a2fa4511407b8!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNcaL5VHDT5SJFS_kRwB6Qe1H3kR4u17s5K7P1m%3Dw260-h175-n-k-no!5srestaurants%20in%20irvine%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipNcaL5VHDT5SJFS_kRwB6Qe1H3kR4u17s5K7P1m&hl=en#",
+                "location": " 2991 Michelson Dr, Irvine, CA 92612",
+                "phone": "(310)-794-6590"
+            }
+           
+        ]
+    },
+    {
+        "title": "Anaheim",
+        "description": "Your app fetched this from a remote endpoint!",
+        "restaurants": [
+            {
+                "id": "1",
+                "title": "California Pizza Kitchen ",
+                "image": "https://www.google.com/maps/uv?pb=!1s0x80dcd7c31e793301%3A0x1f7c7c039dfd0618!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPthY8g4SIGeW0CzWbAYpLp7tu41mfLOShCY0R3%3Dw260-h175-n-k-no!5srestaurants%20inanaheim%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipPthY8g4SIGeW0CzWbAYpLp7tu41mfLOShCY0R3&hl=en#",
+                "location": "321 W Katella Ave Ste. 104, Anaheim, CA 92802",
+                "phone": "(310)-794-6590"
+            },
+            {
+                "id": "2",
+                "title": "Steakhouse 55",
+                "image": "https://www.google.com/maps/uv?pb=!1s0x80dd282a20214b57%3A0xb310422fd22a1b6b!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipM3ysC6Es4GFe1wPwsFmfwnRUCCwDkvYnI7Jdxy%3Dw260-h175-n-k-no!5srestaurants%20inanaheim%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipM3ysC6Es4GFe1wPwsFmfwnRUCCwDkvYnI7Jdxy&hl=en#",
+                "location": "440 S Anaheim Blvd, Anaheim, CA 92805",
+                "phone": "(310)-794-6590"
+            },
+            {
+                "id": "3",
+                "title": "PAPOS Cuban Kitchen",
+                "image": "https://www.google.com/maps/uv?pb=!1s0x80dcd7cf0c8561ab%3A0x8b2a3fed8ea2740d!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOeRvPJkIuxzbGSYCcspY9O0e7g9AwpojjmtYPC%3Dw260-h175-n-k-no!5srestaurants%20inanaheim%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipOeRvPJkIuxzbGSYCcspY9O0e7g9AwpojjmtYPC&hl=en#",
+                "location": "2422 E Katella Ave, Anaheim, CA 92806",
+                "phone": "(310)-794-6590"
+            }
+            
+        ]
+    },
+    {
+        "title": "Garden Grove",
+        "description": "Your app fetched this from a remote endpoint!",
+        "restaurants": [
+            {
+                "id": "1",
+                "title": "Sabroso! Mexican Grill",
+                "image": "https://www.google.com/maps/uv?pb=!1s0x80dcd806b6032651%3A0x7dec17c4e92679a!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNEJxIsEmQP4XmoLnnglIVYFx7LwMGc_vDY3Z7K%3Dw260-h175-n-k-no!5srestaurantsgarden%20grove%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipNEJxIsEmQP4XmoLnnglIVYFx7LwMGc_vDY3Z7K&hl=en#",
+                "location":"697 N Valle Verde Dr, Henderson, NV 89014",
+                "phone": "(310)-794-6590"
+            },
+            {
+                "id": "2",
+                "title": "Mo Ran Gak Restaurant",
+                "image": "https://www.google.com/maps/uv?pb=!1s0x80dd287bbcf9731f%3A0x624c1e64bb460d16!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPpSglzKhVrZ2Oq_eCZl51bxXRySmICAtCc_m9E%3Dw260-h175-n-k-no!5srestaurantsgarden%20grove%20-%%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipPpSglzKhVrZ2Oq_eCZl51bxXRySmICAtCc_m9E&hl=en#",
+                "location":"9651 Garden Grove Blvd, Garden Grove, CA 92844",
+                "phone": "(310)-794-6590"
+            },
+            {
+                "id": "3",
+                "title": "Ta Chen Chinese Restaurant",
+                "image": "https://www.google.com/maps/uv?pb=!1s0x80dd2f26df0e28e3%3A0xc6c95077f94cb3b7!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOG0Zd_D4MUzsk6bBHXEutDXKzXkEdsd-eww8us%3Dw260-h175-n-k-no!5srestaurantsgarden%20grove%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipPEauLK3v2M-Wsz_yO_gRkTBj0EefPWkRBk-CE&hl=en#",
+                "location":"6082 Chapman Ave, Garden Grove, CA 92845",
+                "phone": "(310)-794-6590"
+            }
+            
+        ]
+    }
+]
+
